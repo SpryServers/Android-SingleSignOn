@@ -40,9 +40,9 @@ public class Constants {
     public static final String EXCEPTION_ACCOUNT_ACCESS_DECLINED = "CE_6";
 
     // package related constans
-    public static final String PACKAGE_NAME_PROD = "com.nextcloud.client";
-    public static final String PACKAGE_NAME_DEV = "com.nextcloud.android.beta";
-    public static final String ACCOUNT_TYPE_PROD = "nextcloud";
-    public static final String ACCOUNT_TYPE_DEV = "nextcloud.beta";
+    public static final String PACKAGE_NAME_PROD = "net.spryservers.sprycloud";
+    public static final String PACKAGE_NAME_DEV = "net.spryservers.sprycloud.beta";
+    public static final String ACCOUNT_TYPE_PROD = "sprycloud";
+    public static final String ACCOUNT_TYPE_DEV = "sprycloud.beta";
     
 }
